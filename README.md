@@ -1,3 +1,3 @@
 # Logo Design
 
-[Logo](Logo.jpg)
+![Logo](Logo.jpg)
