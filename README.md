@@ -1,1 +1,3 @@
-# Logo-Design
+# Logo Design
+
+[Logo](Logo.jpg)
